@@ -1,5 +1,5 @@
 # Notes-App
-A simple notes application through JavaScript
+A simple notes application through JavaScript. Here you can easily add your notes, update them and you can also delete it.
 
 You can aslo check here: https://notes-app-khusamayasir.netlify.app/
 
